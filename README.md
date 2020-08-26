@@ -2,6 +2,10 @@
 Official PyTorch implementation for ECCV'20 paper: 
 [Deep Image Clustering with Category-Style Representation](https://arxiv.org/pdf/2007.10004.pdf)
 
+## Coming soon
+
+- A new clustering method which achieves 85.8% clustering accuracy on CIFAR-10 (with 0.8% standard deviations).
+
 ## Package dependencies
 
 - python >= 3.6
